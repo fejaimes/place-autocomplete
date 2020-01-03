@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PlaceAutocomplete</string>
+    <string name="hint_autocomplete">Search</string>
+</resources>
